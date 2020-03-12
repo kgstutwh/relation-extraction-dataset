@@ -20,4 +20,6 @@ Here are some papers that use this dataset and open source code:
 * This dataset contains 100 categories and 70,000 instances, fully surpassing the previous similarly labeled data sets.
 * In the dataset, the average length of each sentence is 24.99, and a total of 124,577 different words or symbols appear.
 
-**download**:[[直通车]](https://thunlp.github.io/fewrel.html)
+**download**: [[dataset]](https://thunlp.github.io/fewrel.html)
+
+More details can also access:[https://thunlp.github.io/fewrel.html](https://thunlp.github.io/fewrel.html)
