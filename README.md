@@ -12,3 +12,12 @@ Here are some papers that use this dataset and open source code:
 
 * "CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases"[[paper]](https://arxiv.org/pdf/1610.08763.pdf)[[code]](https://github.com/INK-USC/USC-DS-RelationExtraction)
 * "Joint Relation Extraction with Hierarchical Reinforcement Learning"[[paper]](https://arxiv.org/abs/1811.03925)[[code]](https://github.com/truthless11/HRL-RE)
+
+## FewRel dataset
+
+**Introduction:**
+* FewRel is built with Wikipedia as the corpus and Wikidata as the knowledge graph by Tsinghua University's Natural Language Processing Lab.
+* This dataset contains 100 categories and 70,000 instances, fully surpassing the previous similarly labeled data sets.
+* In the dataset, the average length of each sentence is 24.99, and a total of 124,577 different words or symbols appear.
+
+**download**:[[直通车]](https://thunlp.github.io/fewrel.html)
