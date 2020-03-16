@@ -7,7 +7,7 @@ This dataset is a freely available dataset by Hendrickx et al. (2009) which cont
 
 The details of relations are as follows:
 
-![semeval-1.png](images/semeval-1.png)
+<div align=center><img src="images/semeval-1.png" width = 80% height = 80%/></div>
 
 More details can access:
 * [SemEval2010 Task8 official document](https://docs.google.com/document/d/1QO_CnmvNRnYwNWu1-QCAeR5ToQYkXUqFeAJbdEhsq7w/preview)
