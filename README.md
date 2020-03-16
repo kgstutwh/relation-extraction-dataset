@@ -6,6 +6,7 @@ The repo covers some widely used relation extraction datasets and will be contin
 This dataset is a freely available dataset by Hendrickx et al. (2009) which contains 10,717 samples which are divided as 8,000 for training and 2,717 for testing.
 
 The details of relations are as follows:
+
 ![semeval-1.png](images/semeval-1.png)
 
 More details can access:
