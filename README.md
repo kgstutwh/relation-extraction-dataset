@@ -6,8 +6,10 @@ The repo covers some widely used relation extraction datasets and will be contin
 This dataset is a freely available dataset by Hendrickx et al. (2009) which contains 10,717 samples which are divided as 8,000 for training and 2,717 for testing.
 
 The details of relations are as follows:
+<div align=center><img src="images/semeval-1.png" width = 80% height = 80% /></div>
 
-<div align=center><img src="images/semeval-1.png" width = 80% height = 80%/></div>
+**download:** [[dataset]](http://docs.google.com/leaf?id=0B_jQiLugGTAkMDQ5ZjZiMTUtMzQ1Yy00YWNmLWJlZDYtOWY1ZDMwY2U4YjFk&sort=name&layout=list&num=50)
+(Note: The dataset is also contained in the repo.)
 
 More details can access:
 * [SemEval2010 Task8 official document](https://docs.google.com/document/d/1QO_CnmvNRnYwNWu1-QCAeR5ToQYkXUqFeAJbdEhsq7w/preview)
@@ -25,6 +27,7 @@ Here are some papers that use this dataset and open source code:
 * "CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases"[[paper]](https://arxiv.org/pdf/1610.08763.pdf)[[code]](https://github.com/INK-USC/USC-DS-RelationExtraction)
 * "Joint Relation Extraction with Hierarchical Reinforcement Learning"[[paper]](https://arxiv.org/abs/1811.03925)[[code]](https://github.com/truthless11/HRL-RE)
 
+
 ## FewRel dataset
 
 **Introduction:**
@@ -35,3 +38,5 @@ Here are some papers that use this dataset and open source code:
 **download**: [[dataset]](https://thunlp.github.io/fewrel.html)
 
 More details can also access:[https://thunlp.github.io/fewrel.html](https://thunlp.github.io/fewrel.html)
+
+
