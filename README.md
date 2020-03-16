@@ -1,6 +1,17 @@
 # relation-extraction-dataset
 The repo covers some widely used relation extraction datasets and will be continuously updated.
 
+## SemEval2010 Task8 dataset
+
+This dataset is a freely available dataset by Hendrickx et al. (2009) which contains 10,717 samples which are divided as 8,000 for training and 2,717 for testing.
+
+The details of relations are as follows:
+![semeval-1.png](images/semeval-1.png)
+
+More details can access:
+* [SemEval2010 Task8 official document](https://docs.google.com/document/d/1QO_CnmvNRnYwNWu1-QCAeR5ToQYkXUqFeAJbdEhsq7w/preview)
+* [中文版本--关系抽取：SemEval2010 Task8数据集](https://blog.csdn.net/qq_29883591/article/details/88567561)
+
 ## NYT dataset
 
 * **NYT10** is originally released by the paper "Modeling relations and their mentions without labeled text."[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-642-15939-8_10.pdf)
